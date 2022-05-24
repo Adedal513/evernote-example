@@ -21,7 +21,6 @@ pip install -r requirements.txt
 ---
 Перед началом работы зарегистрируйтесь на [сайте](https://evernote.com/intl/ru/)  сервиса Evernote и [сервере разработки](https://sandbox.evernote.com/Registration.action?ref=https://githubhelp.com).
 
-Получите на 
 Для работы утилите необходимы переменные окружения. Создайте файл `.env` и внесите в него следующие переменные в виде 
 `ПЕРЕМЕННАЯ=ЗНАЧЕНИЕ`:
 - `EVERNOTE_CONSUMER_KEY` - ключ пользователя
