@@ -8,7 +8,7 @@
 
 Использует средства [Evernote SDK](https://dev.evernote.com/doc/).
 
-##Установка
+## Установка
 
 ---
 
@@ -16,7 +16,7 @@
 ```shell
 pip install -r requirements.txt
 ```
-##Настройка
+## Настройка
 
 ---
 Перед началом работы зарегистрируйтесь на [сайте](https://evernote.com/intl/ru/)  сервиса Evernote и [сервере разработки](https://sandbox.evernote.com/Registration.action?ref=https://githubhelp.com).
